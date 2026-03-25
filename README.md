@@ -58,42 +58,11 @@ public class DineshKumar {
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 🚂 Train Ticket Booking System
-> Full-stack web application for train ticket reservation
-
-- ✅ Automated **Confirmed / RAC / Waiting** list management
-- ✅ Real-time seat allocation with **REST API** integration
-- ✅ **Google Sheets API** for live booking data persistence
-- ✅ Containerized with **Docker**, deployed on **Render**
-- 🛠️ Tech: `Java` `Spring Boot` `REST API` `HTML/CSS/JS` `Docker`
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-FED700?style=for-the-badge&logoColor=black)](https://trainticket-emse.onrender.com/)
-[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinesh1-coder)
-
----
-
-### 🌐 Portfolio Website
-> Personal portfolio showcasing projects, skills & achievements
-
-- ✅ Fully **responsive** design (mobile + desktop)
-- ✅ Smooth scroll animations & mobile menu
-- ✅ Contact form with **Google Sheets** integration
-- 🛠️ Tech: `HTML` `CSS` `JavaScript`
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-FED700?style=for-the-badge&logoColor=black)](https://dinesh1-coder.github.io)
-[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinesh1-coder)
 
 ---
 
